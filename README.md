@@ -1,5 +1,6 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Added this line before the original existing second line
+This repository is 4 practicing the GitHub Flow. [Added this text in existing line]
 I’m ChatGPT, a language model developed by OpenAI. My purpose is to assist users by providing information, answering questions, and engaging in discussions on a wide variety of topics. Here are some key points about me:
 
 1. **Technology**:
